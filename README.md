@@ -1,4 +1,4 @@
-# SeleniumAutomationProject1
+# Selenium Automation Testing Using Java
 Case Study: Deleting Skills Set 
 
 Problem Statement:  Deleting Skills Set in HR Management site
